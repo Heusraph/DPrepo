@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DailyPlanner2/1.0.0": {
+        "dependencies": {
+          "BL.DailyPlanner": "1.0.0"
+        },
+        "runtime": {
+          "DailyPlanner2.dll": {}
+        }
+      },
+      "BL.DailyPlanner/1.0.0": {
+        "runtime": {
+          "BL.DailyPlanner.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DailyPlanner2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BL.DailyPlanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\bin\Debug\net8.0\BL.DailyPlanner.deps.json
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\bin\Debug\net8.0\BL.DailyPlanner.dll
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\bin\Debug\net8.0\BL.DailyPlanner.pdb
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.AssemblyInfoInputs.cache
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.AssemblyInfo.cs
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.dll
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\refint\BL.DailyPlanner.dll
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\BL.DailyPlanner.pdb
+C:\Users\bauti\source\repos\DailyPlanner2\BL.DailyPlanner\obj\Debug\net8.0\ref\BL.DailyPlanner.dll
