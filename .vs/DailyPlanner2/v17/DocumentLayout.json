@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C4CF6A-0E1C-4ECC-855E-400CF6E1BE96}|DailyPlanner2.csproj|c:\\users\\bauti\\source\\repos\\newrepo\\dprepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C4CF6A-0E1C-4ECC-855E-400CF6E1BE96}|DailyPlanner2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4624B004-65EB-4779-98D3-38A96224C5D3}|BL.DailyPlanner\\BL.DailyPlanner.csproj|c:\\users\\bauti\\source\\repos\\newrepo\\dprepo\\bl.dailyplanner\\taskdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4624B004-65EB-4779-98D3-38A96224C5D3}|BL.DailyPlanner\\BL.DailyPlanner.csproj|solutionrelative:bl.dailyplanner\\taskdp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskDP.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\TaskDP.cs",
+              "RelativeDocumentMoniker": "BL.DailyPlanner\\TaskDP.cs",
+              "ToolTip": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\TaskDP.cs",
+              "RelativeToolTip": "BL.DailyPlanner\\TaskDP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:45:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:45:24.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

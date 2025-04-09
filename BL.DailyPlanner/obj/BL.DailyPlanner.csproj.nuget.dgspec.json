@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bauti\\source\\repos\\DailyPlanner2\\BL.DailyPlanner\\BL.DailyPlanner.csproj": {}
+    "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\BL.DailyPlanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bauti\\source\\repos\\DailyPlanner2\\BL.DailyPlanner\\BL.DailyPlanner.csproj": {
+    "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\BL.DailyPlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bauti\\source\\repos\\DailyPlanner2\\BL.DailyPlanner\\BL.DailyPlanner.csproj",
+        "projectUniqueName": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\BL.DailyPlanner.csproj",
         "projectName": "BL.DailyPlanner",
-        "projectPath": "C:\\Users\\bauti\\source\\repos\\DailyPlanner2\\BL.DailyPlanner\\BL.DailyPlanner.csproj",
+        "projectPath": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\BL.DailyPlanner.csproj",
         "packagesPath": "C:\\Users\\bauti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bauti\\source\\repos\\DailyPlanner2\\BL.DailyPlanner\\obj\\",
+        "outputPath": "C:\\Users\\bauti\\source\\repos\\NewRepo\\DPrepo\\BL.DailyPlanner\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

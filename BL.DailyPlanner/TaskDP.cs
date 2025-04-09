@@ -6,19 +6,40 @@ using System.Threading.Tasks;
 
 namespace BL.DailyPlanner
 {
-    public class DPTask
+    public class DPplan
     {
-        public static List<string> tasks = new List<string>();
+        public static List<string> plan = new List<string>();
         public static List<string> times = new List<string>();
 
-        public static void AddTask(string task, string time)
+        public static void AddPlan(string plan, string time)
+        {
+            DPplan.plan.Add(plan);
+            DPplan.times.Add(time);
+        }
+
+        public static string RemovePlan(int index)
         {
 
+            if (index >= 0 && index < plan.Count)
+            {
+                string removed = plan[index];
+                plan.RemoveAt(index);
+                times.RemoveAt(index);
+                return removed;
+            }
+            return null;
+        }
 
-            DPTask.tasks.Add(task);
-            DPTask.times.Add(time);
+        public static bool UpdatePlan(int index, string newPlan, string newTime)
+        {
+            if (index >= 0 && index < plan.Count)
+            {
+                plan[index] = newPlan;
+                times[index] = newTime;
+                return true;
+            }
 
-
+            return false;
         }
     }
 }
