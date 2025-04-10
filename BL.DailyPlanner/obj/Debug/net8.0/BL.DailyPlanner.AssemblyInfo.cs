@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BL.DailyPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a72208a5f91ba43aedc9beca908b69f64f92b9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8159df5dd048455fea173b328e49cbdd38f1ae67")]
 [assembly: System.Reflection.AssemblyProductAttribute("BL.DailyPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BL.DailyPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

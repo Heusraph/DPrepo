@@ -10,18 +10,41 @@ namespace DailyPlanner2
 {
     internal class Program
     {
-
+        static string[] actions = new string [] { " Add Plan ", " Remove Plan ", " View Plan ", " Update Plan ", " About", " Exit " };
 
         static void Main()
         {
+
+            Console.Write("Enter your First Name: ");
+            string fName = Console.ReadLine();
+
+            Console.Write("Enter your Last Name: ");
+            string lName = Console.ReadLine();
+
+            Console.Write("Enter your Age: ");
+            int age = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Enter your Email: ");
+            string email = Console.ReadLine();
+
+
+            Console.WriteLine("Your info has been saved");
+
+
+            AboutU.FirstName = fName;
+            AboutU.LastName = lName;
+            AboutU.Age = age;
+            AboutU.Email = email;
+
+
             while (true)
             {
                 Console.WriteLine("Welcome to Daily Planner! Please select an action:");
-                Console.WriteLine("[1] Add Plan");
-                Console.WriteLine("[2] Remove Plan");
-                Console.WriteLine("[3] View Plan");
-                Console.WriteLine("[4] Update Plan");
-                Console.WriteLine("[5] Exit");
+
+                for (int i = 0; i < actions.Length; i++)
+                {
+                    Console.WriteLine($"[{i + 1}] {actions[i]}");
+                }
 
                 Console.Write("Enter choice: ");
                 int choice = Convert.ToInt32(Console.ReadLine());
@@ -51,6 +74,10 @@ namespace DailyPlanner2
                         break;
 
                     case 5:
+                        About();
+                        break;
+
+                    case 6:
                         Exit();
                         Console.WriteLine("Hope to see you again");
                         return;
@@ -142,6 +169,10 @@ namespace DailyPlanner2
                 Console.WriteLine("Invalid Number. No plan was updated");
             }
 
+        }
+        static void About()
+        {
+            Console.WriteLine(AboutU.UserSummary());
         }
 
         static void Exit()
